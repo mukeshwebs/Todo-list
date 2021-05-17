@@ -8,4 +8,4 @@ This is a simple Todo-list application made using Javascript. <br>
 2. Mark it done using a click on the task you have completed<br>
 3. Remove the added task by double click on that<br>
 
-![Uploading image.png…]()
+
